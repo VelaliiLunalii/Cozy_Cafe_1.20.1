@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:palm_fiber"
+    },
+    {
+      "item": "cozycafe:palm_fiber"
+    },
+    {
+      "item": "cozycafe:palm_fiber"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:string"
+  }
+}

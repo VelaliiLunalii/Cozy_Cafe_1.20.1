@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column_horizontal",
+  "textures": {
+    "end": "cozycafe:block/stripped_palm_log_top",
+    "side": "cozycafe:block/stripped_palm_log"
+  }
+}

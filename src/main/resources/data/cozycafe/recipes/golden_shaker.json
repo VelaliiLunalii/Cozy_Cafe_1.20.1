@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "cozycafe:iron_shaker"
+    },
+    "I": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "I#",
+    "II"
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:golden_shaker"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:nether_wastes",
+  "features": "cozycafe:ember_bloom_placed",
+  "step": "vegetal_decoration"
+}

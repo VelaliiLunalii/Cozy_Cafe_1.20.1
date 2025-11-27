@@ -1,0 +1,6 @@
+// 1.20.1	2025-05-14T19:38:25.9343448	Tags for minecraft:block mod id cozycafe
+bbae36b815e9aa2125f7ed18760b1454f3eeb07c data/minecraft/tags/blocks/fence_gates.json
+b22c345e1f9be53fdc4b697d40b3776e76e20302 data/minecraft/tags/blocks/logs_that_burn.json
+0d7273b7a7e4b1bb2e66f4548f3b92b89c63656c data/minecraft/tags/blocks/mineable/axe.json
+0d6cc6d918946d9eabb68dfe6fbe27bb9eb1efbf data/minecraft/tags/blocks/planks.json
+7cf95ce675bcf5781a597bc5ebf0980db09927b7 data/minecraft/tags/blocks/wooden_fences.json

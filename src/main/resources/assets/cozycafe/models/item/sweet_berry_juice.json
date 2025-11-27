@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozycafe:item/sweet_berry_juice"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cozycafe:in_hand": 1
+      },
+      "model": "cozycafe:item/sweet_berry_juice_in_hand"
+    }
+  ]
+}

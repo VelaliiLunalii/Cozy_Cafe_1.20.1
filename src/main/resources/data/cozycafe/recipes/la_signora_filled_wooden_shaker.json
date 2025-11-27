@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:wooden_shaker"
+    },
+    {
+      "item": "cozycafe:melon_juice"
+    },
+    {
+      "item": "cozycafe:crushed_ember_bloom"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:la_signora_filled_wooden_shaker"
+  }
+}

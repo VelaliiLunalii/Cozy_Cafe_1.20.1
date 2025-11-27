@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:netherite_shaker"
+    },
+    {
+      "item": "cozycafe:melon_juice"
+    },
+    {
+      "item": "cozycafe:carbonated_water"
+    },
+    {
+      "item": "cozycafe:sweet_berry_juice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:watermelon_rose_filled_netherite_shaker"
+  }
+}

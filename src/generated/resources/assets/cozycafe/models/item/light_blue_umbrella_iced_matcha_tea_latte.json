@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozycafe:item/light_blue_umbrella_iced_matcha_tea_latte"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:bamboo_jungle",
+    "minecraft:badlands",
+    "minecraft:cherry_grove",
+    "minecraft:eroded_badlands",
+    "minecraft:meadow",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:plains",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:snowy_taiga",
+    "minecraft:sunflower_plains",
+    "minecraft:swamp",
+    "minecraft:taiga",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_savanna"
+  ],
+  "features": "cozycafe:lost_feathers_rare_placed",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,14 @@
+{
+  "drinking_sound": {
+    "subtitle": "sounds.cozycafe.drinking_sound",
+    "sounds": [
+      "cozycafe:drinking_sound"
+    ]
+  },
+  "pouring_sound": {
+    "subtitle": "sounds.cozycafe.pouring_sound",
+    "sounds": [
+      "cozycafe:pouring_sound"
+    ]
+  }
+}

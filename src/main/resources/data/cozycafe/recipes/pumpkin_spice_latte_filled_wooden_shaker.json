@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:wooden_shaker"
+    },
+    {
+      "item": "cozycafe:tea"
+    },
+    {
+      "item": "cozycafe:pumpkin_juice"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "tag": "forge:seeds"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:pumpkin_spice_latte_filled_wooden_shaker"
+  }
+}

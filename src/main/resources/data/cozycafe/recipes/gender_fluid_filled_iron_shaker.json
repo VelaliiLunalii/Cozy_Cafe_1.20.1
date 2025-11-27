@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:iron_shaker"
+    },
+    {
+      "item": "minecraft:glow_ink_sac"
+    },
+    {
+      "item": "cozycafe:coconut_milk"
+    },
+    {
+      "item": "cozycafe:crushed_ember_bloom"
+    },
+    {
+      "item": "cozycafe:chorus_juice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:gender_fluid_filled_iron_shaker"
+  }
+}

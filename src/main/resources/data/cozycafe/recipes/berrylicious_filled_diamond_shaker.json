@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:diamond_shaker"
+    },
+    {
+      "item": "cozycafe:glow_berry_juice"
+    },
+    {
+      "item": "cozycafe:sweet_berry_juice"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:berrylicious_filled_diamond_shaker"
+  }
+}

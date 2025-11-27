@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:golden_shaker"
+    },
+    {
+      "item": "cozycafe:apple_juice"
+    },
+    {
+      "item": "cozycafe:carbonated_water"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:il_siracusano_filled_golden_shaker"
+  }
+}

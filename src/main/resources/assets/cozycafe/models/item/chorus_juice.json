@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozycafe:item/chorus_juice"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cozycafe:in_hand": 1
+      },
+      "model": "cozycafe:item/chorus_juice_in_hand"
+    }
+  ]
+}

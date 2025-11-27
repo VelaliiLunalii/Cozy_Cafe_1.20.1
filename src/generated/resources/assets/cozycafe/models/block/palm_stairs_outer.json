@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "cozycafe:block/palm_planks",
+    "side": "cozycafe:block/palm_planks",
+    "top": "cozycafe:block/palm_planks"
+  }
+}

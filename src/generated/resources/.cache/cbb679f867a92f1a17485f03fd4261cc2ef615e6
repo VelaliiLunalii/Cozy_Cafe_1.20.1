@@ -1,0 +1,6 @@
+// 1.20.1	2025-05-28T12:40:49.8846024	Global Loot Modifiers : cozycafe
+a385d1cd0331dc94223c1d5e0a4da7f820ff57cb data/cozycafe/loot_modifiers/ember_bloom_seed_from_nether_bridge.json
+3e29cb8c1e79f9ea5ef6dac26521307dfe2c1045 data/cozycafe/loot_modifiers/guava_fruit_from_jungle_leaves.json
+952f19f5ef92932ea6aa1c7f031349aa7cec6803 data/cozycafe/loot_modifiers/tea_leaves_from_short_grass.json
+a18093750eaad597f6bf8e9cbdc6b916ece3081d data/cozycafe/loot_modifiers/tea_leaves_from_tall_grass.json
+9da0b010677371112f7742b6e9d00aafbdb60ca8 data/forge/loot_modifiers/global_loot_modifiers.json

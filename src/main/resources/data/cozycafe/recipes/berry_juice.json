@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "cozycafe:juice_press"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:sweet_berry_juice"
+  }
+}

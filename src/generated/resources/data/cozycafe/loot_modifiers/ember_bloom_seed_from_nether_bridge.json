@@ -1,0 +1,10 @@
+{
+  "type": "cozycafe:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/nether_bridge"
+    }
+  ],
+  "item": "cozycafe:ember_bloom_seed"
+}

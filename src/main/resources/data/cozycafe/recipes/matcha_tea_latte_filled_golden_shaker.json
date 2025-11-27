@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:golden_shaker"
+    },
+    {
+      "item": "cozycafe:coconut_milk"
+    },
+    {
+      "item": "cozycafe:matcha_powder"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:matcha_tea_latte_filled_golden_shaker"
+  }
+}

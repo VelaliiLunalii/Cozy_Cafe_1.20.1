@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "D": {
+      "item": "minecraft:lime_dye"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "#D",
+    "S#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:lime_cocktail_umbrella"
+  }
+}

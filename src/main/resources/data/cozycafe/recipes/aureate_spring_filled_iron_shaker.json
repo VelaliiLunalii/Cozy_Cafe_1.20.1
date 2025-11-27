@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:iron_shaker"
+    },
+    {
+      "item": "cozycafe:glow_berry_juice"
+    },
+    {
+      "item": "cozycafe:carrot_juice"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:aureate_spring_filled_iron_shaker"
+  }
+}

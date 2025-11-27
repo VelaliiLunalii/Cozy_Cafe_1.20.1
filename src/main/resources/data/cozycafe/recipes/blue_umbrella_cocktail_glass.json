@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:blue_cocktail_umbrella"
+    },
+    {
+      "item": "cozycafe:cocktail_glass"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:blue_umbrella_cocktail_glass"
+  }
+}

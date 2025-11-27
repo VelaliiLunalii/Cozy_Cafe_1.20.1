@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:ember_bloom_petals"
+    },
+    {
+      "item": "cozycafe:juice_press"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:crushed_ember_bloom"
+  }
+}

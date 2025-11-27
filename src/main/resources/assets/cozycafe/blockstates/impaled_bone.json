@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": {"model": "cozycafe:block/impaled_bone", "x": 90},
+    "facing=south": {"model": "cozycafe:block/impaled_bone", "x": 90, "y": 180},
+    "facing=east": {"model": "cozycafe:block/impaled_bone", "x": 90, "y": 90},
+    "facing=west": {"model": "cozycafe:block/impaled_bone", "x": 90, "y": 270},
+    "facing=up": {"model": "cozycafe:block/impaled_bone"},
+    "facing=down": {"model": "cozycafe:block/impaled_bone", "x": 180}
+  }
+}

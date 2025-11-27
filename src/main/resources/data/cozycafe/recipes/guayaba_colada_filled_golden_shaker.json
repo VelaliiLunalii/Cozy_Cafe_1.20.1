@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:golden_shaker"
+    },
+    {
+      "item": "cozycafe:guava_juice"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "cozycafe:coconut_milk"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:guayaba_colada_filled_golden_shaker"
+  }
+}

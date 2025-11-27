@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "cozycafe:block/stripped_palm_log" },
+    "axis=z": { "model": "cozycafe:block/stripped_palm_log_horizontal", "x": 90 },
+    "axis=x": { "model": "cozycafe:block/stripped_palm_log_horizontal", "x": 90, "y": 90 }
+  }
+}

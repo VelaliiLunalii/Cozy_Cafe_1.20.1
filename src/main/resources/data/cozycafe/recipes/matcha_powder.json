@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cozycafe:tea_leaves"
+    },
+    {
+      "item": "cozycafe:tea_leaves"
+    },
+    {
+      "item": "cozycafe:tea_leaves"
+    },
+    {
+      "item": "cozycafe:juice_press"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:matcha_powder"
+  }
+}

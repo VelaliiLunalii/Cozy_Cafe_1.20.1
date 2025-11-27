@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozycafe:item/melon_juice"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cozycafe:in_hand": 1
+      },
+      "model": "cozycafe:item/melon_juice_in_hand"
+    }
+  ]
+}

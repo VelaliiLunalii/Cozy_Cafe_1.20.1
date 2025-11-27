@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "cozycafe:juice_press"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "cozycafe:carrot_juice"
+  }
+}

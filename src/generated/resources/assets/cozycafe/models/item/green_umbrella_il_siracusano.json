@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cozycafe:item/green_umbrella_il_siracusano"
+  }
+}

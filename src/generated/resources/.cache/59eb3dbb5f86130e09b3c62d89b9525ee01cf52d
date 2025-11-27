@@ -1,0 +1,14 @@
+// 1.20.1	2025-05-30T09:50:28.6217757	Loot Tables
+39654f7112c3427b4060b82bb186e9edf96b4314 data/cozycafe/loot_tables/blocks/palm_button.json
+ca4316b8d4d6e41437b9b57997356a3805622cea data/cozycafe/loot_tables/blocks/palm_door.json
+0d0e65b3c5a1eaa178b8fadf178efa7712802d5b data/cozycafe/loot_tables/blocks/palm_fence.json
+b2f9ef0828e4a2cf5de249753ccdee4a2339255e data/cozycafe/loot_tables/blocks/palm_fence_gate.json
+9f2b3d751fa1b498387e61ee5db9e1808e1e9d01 data/cozycafe/loot_tables/blocks/palm_log.json
+44d28cc2b96846e5135d38294a0c8e0c65de46a6 data/cozycafe/loot_tables/blocks/palm_planks.json
+e7e897031b86ec747a7e4de62874be1429c38eff data/cozycafe/loot_tables/blocks/palm_pressure_plate.json
+6dbad2aadd6095520557021720e3de949372e835 data/cozycafe/loot_tables/blocks/palm_slab.json
+336f7494a6fcc6ca6c73a9bd7da12fd245e5dbfa data/cozycafe/loot_tables/blocks/palm_stairs.json
+9d0d78278b6937aa801a32beb62a16202cec2b33 data/cozycafe/loot_tables/blocks/palm_trapdoor.json
+50bd7f2e73b10731db7fd6c3f46c3e21056b8eec data/cozycafe/loot_tables/blocks/palm_wood.json
+dc2d1aae74369137f45c699fffc9c1b61f0980cc data/cozycafe/loot_tables/blocks/stripped_palm_log.json
+2dc10764bcfc920fa8e487af6e0998fbc7a810ea data/cozycafe/loot_tables/blocks/stripped_palm_wood.json
